@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # coding=utf-8
 
-import spyder
+import application
 
 # Lancement de l'application
-spyder.Spyder().run()
+application.Spyder().run()
